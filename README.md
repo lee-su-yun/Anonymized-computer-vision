@@ -1,4 +1,4 @@
-# Anonymized-computer-vision (by using transfer leanrning) 
+# Anonymized-computer-vision (by using transfer learning) 
 ![algorithm그림](https://github.com/lee-su-yun/Anonymized-computer-vision/assets/69504781/b19d4ce0-acd5-48bb-a1de-74d0876e46f4)
 
 
