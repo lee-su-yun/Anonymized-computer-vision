@@ -1,4 +1,4 @@
-# Anonymized-computer-vision
+# Anonymized-computer-vision (by using transfer leanrning) 
 
 #anonyimzation tool = convert image dataset into anonymized image dataset
 1. there are 5 types : blurring, motion blurring, pixelating, masking, adding random black pixels
